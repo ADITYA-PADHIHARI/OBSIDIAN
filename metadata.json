@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Sentinel - SOC & SIEM Platform",
+  "description": "Enterprise Tier-3 Security Operations Center (SOC) and SIEM platform featuring real-time Wazuh/Splunk telemetry, target device onboarding scripts, autonomous AI correlation, and threat containment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
